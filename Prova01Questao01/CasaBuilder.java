@@ -22,6 +22,7 @@ public abstract class CasaBuilder {
     public abstract void cozinha();
     public abstract void quarto();
     public abstract void quintal();
+    public abstract void jardim();
     
     public CasaProduct getCasa(){
         return casa;

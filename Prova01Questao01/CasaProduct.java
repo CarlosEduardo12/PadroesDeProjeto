@@ -20,5 +20,9 @@ public class CasaProduct {
     int tomadasQuarto;
     boolean embutido;
     double areaQuintal;
-    
+    int qtdBanheiro;
+    int qtdQuarto;
+    double jardim; 
+    boolean temJardim;
+    boolean temQuintal;
 }
